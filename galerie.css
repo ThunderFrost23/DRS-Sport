@@ -1,0 +1,120 @@
+html {
+  background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(90,90,90,1) 100%);
+} 
+
+
+
+/*Titre*/
+.title {	
+	border-width:6px;
+	border-style:double;
+	border-color:red;
+	font-size: 80px;
+  padding: 30px;
+  background: -webkit-linear-gradient(white, gray);
+  				    -webkit-background-clip: text;
+  				    -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+
+
+body{
+  font-family: sans-serif;
+  font-size: 1.6rem;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;  
+  flex-direction: column;
+}
+
+.filtre {
+  margin-bottom: 10px;
+  text-decoration: underline;
+
+}
+
+
+label {
+  color: silver;
+  margin: 5px;
+}
+
+select {
+  width: 160px;
+  border-radius: 8px;
+  background: transparent;
+  color: silver;
+  height: 30px;
+  text-align: center;
+  text-align-last: center;
+}
+
+input[type=submit] {
+  width: 160px;
+  margin-left: 60px;
+  border-radius: 20px 0 20px 0;
+  background-color: silver;
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+  height: 30px;
+  box-shadow: 3px 3px 0 0 red;
+}
+
+
+.page{
+  box-sizing: border-box;
+  max-width: 640px;
+  width: 100%;  
+  padding-left: 1rem;
+  padding-right: 1rem;
+  
+  order: 1;
+  margin: auto;
+}
+
+/*------------------------------------
+
+/*Contenus des grilles*/
+
+
+.contenueVoiture{
+  background-color: white;
+  float: left;
+  height: auto;
+  width: 80%;
+  left: 20px;
+  border-radius: 10px 10px 0px 0px;
+  margin: auto;
+}
+
+.contenueVoiture h4{
+  text-align: center;
+  font-size:130%;
+  background-color: red;
+  margin: 0;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.contenueVoiture img{
+  max-width: 450px;
+  float: left;
+}
+
+.contenueVoiture img[alt=logo] {
+  width: 80px;
+  float: right;
+}
+
+.contenueVoiture ul {
+  float: left;
+  width: 400px;
+  margin: 0;
+}
+
+@media screen and (max-width: 1200px) {
+.contenueVoiture{
+  width: 450px;
+}
+
