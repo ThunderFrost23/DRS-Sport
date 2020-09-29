@@ -1,0 +1,52 @@
+body {	
+	background:linear-gradient(180deg, rgba(0,0,0,1) 10%, rgba(192,192,192,1) 100%);
+	}
+
+/*Titre*/
+.title {	
+	border-width:6px;
+	border-style:double;
+	border-color:red;
+	font-size: 80px;
+  padding: 30px;
+  background: -webkit-linear-gradient(white, gray);
+  				    -webkit-background-clip: text;
+  				    -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+
+
+.center{
+	margin:auto;
+}
+
+.centernav{
+	text-align: center;
+	margin:auto;
+	width: 400px;
+}
+
+
+
+
+
+
+.charte {
+			width: 850px;
+			text-align: left;
+			border:solid 1px;
+			padding: 30px;
+			margin: auto;
+			margin-top: 60px;
+			background:white;
+
+}
+
+h1 {
+	text-align: center;
+}
+
+		
+
+
