@@ -137,38 +137,6 @@
 
 			<!-- ======================================== -->
 			<div class="contenueVoiture">
-				<h4>Ford Focus 3 RS III 2.3 ECOBOOST 350 S&S RS LAST EDITION 5P</h4>
-
-				<a href="imageweb/FordFocusRS/fordint.jpg"> 
-					<img src="imageweb/FordFocusRS/fordav.jpg" alt="imageweb">
-				</a>
-
-					<ul>
-						<li>Nombre de portes/places: 5 portes, 5 places assises</li>
-						<li>Motorisation: Essence</li>
-						<li>Puissance Fiscale: 24 CV</li>
-						<li>Moteur: 4 cylindres en ligne, 16 soupapes</li>
-						<li>Puissance: 350 ch</li>
-						<li>Type de suralimentation: Turbo</li>
-						<li>Boîte de vitesse, Nombre de rapports: Mécanique à 6 rapports</li>
-						<li>Roues motrices: 4x4</li>
-						<li>Vitesse Maxi: 266 km/h</li>
-						<li>0 à 100 km/h: 4,7 sec</li>
-						<li><b>Prix: 44 300 €</b></li>
-					</ul>
-
-					<img src="imageweb/FordFocusRS/logoford.png"
-					alt="logo">
-
-			</div>
-			<!-- ======================================== -->
-
-
-			<br>
-
-
-			<!-- ======================================== -->
-			<div class="contenueVoiture">
 				<h4>Renault Megane 4 RS IV 1.8 T 280 18CV RS</h4>
 
 				<a href="imageweb/RenaultMeganeRS/renaultint.jpeg"> 
@@ -254,38 +222,6 @@
 					</ul>
 
 					<img src="imageweb/AudiA1Sportback/logoaudi.png"
-					alt="logo">
-
-			</div>
-			<!-- ======================================== -->
-
-
-			<br>
-
-
-			<!-- ======================================== -->
-			<div class="contenueVoiture">
-				<h4>Mercedes-AMG GT 53 435 4MATIC+</h4>
-
-				<a href="imageweb/MercedesAMGGT53/mercedesint.jpeg"> 
-					<img src="imageweb/MercedesAMGGT53/mercedesav.jpg" alt="imageweb">
-				</a>
-
-					<ul>
-						<li>Nombre de portes/places: 5 portes, 5 places assises</li>
-						<li>Motorisation: Hybride rechargeable Essence-Electrique</li>
-						<li>Puissance Fiscale: 32 CV</li>
-						<li>Moteur: 6 cylindres en ligne, 24 soupapes + moteur électrique</li>
-						<li>Puissance: 435 ch</li>
-						<li>Type de suralimentation: Turbo</li>
-						<li>Boîte de vitesse, Nombre de rapports: Automatique à 9 rapports</li>
-						<li>Roues motrices: 4x4</li>
-						<li>Vitesse Maxi: 285 km/h</li>
-						<li>0 à 100 km/h: 4,5 sec</li>
-						<li><b>Prix: 122 850 €</b></li>
-					</ul>
-
-					<img src="imageweb/MercedesAMGGT53/logomercedes.png"
 					alt="logo">
 
 			</div>
@@ -385,39 +321,7 @@
 					alt="logo">
 
 			</div>
-			<!-- ======================================== -->
-
-
-			<br>
-
-
-			<!-- ======================================== -->
-			<div class="contenueVoiture">
-				<h4>Audi R8 V10 Plus 5.2 "Selection 24h"</h4>
-
-				<a href="imageweb/AudiR8V10PlusSelection24h/audiint.jpg"> 
-					<img src="imageweb/AudiR8V10PlusSelection24h/audiav.jpg" alt="imageweb">
-				</a>
-
-					<ul>
-						<li>Nombre de portes/places: 2 portes, 2 places assises</li>
-						<li>Motorisation: Essence</li>
-						<li>Puissance Fiscale: 45 CV</li>
-						<li>Moteur: 10 cylindres en V, 40 soupapes</li>
-						<li>Puissance: 610 ch</li>
-						<li>Type de suralimentation: ~~</li>
-						<li>Boîte de vitesse, Nombre de rapports: Automatique à 7 rapports</li>
-						<li>Roues motrices: 4x4</li>
-						<li>Vitesse Maxi: 320 km/h</li>
-						<li>0 à 100 km/h: 3,5 sec</li>
-						<li><b>Prix: 229 000 €</b></li>
-					</ul>
-
-					<img src="imageweb/AudiR8V10PlusSelection24h/logoaudi.png"
-					alt="logo">
-
-			</div>
-			<!-- ======================================== -->
+			<!-- ======================================== --
 
 
 			<br>
@@ -446,70 +350,6 @@
 					</ul>
 
 					<img src="imageweb/ToyotaSupra/logotoyota.png"
-					alt="logo">
-
-			</div>
-			<!-- ======================================== -->
-
-
-			<br>
-
-
-			<!-- ======================================== -->
-			<div class="contenueVoiture">
-				<h4>BMW M4 (F82) GTS</h4>
-
-				<a href="imageweb/BMWM4GTS/bmwint.jpg"> 
-					<img src="imageweb/BMWM4GTS/bmwav.jpg" alt="imageweb">
-				</a>
-
-					<ul>
-						<li>Nombre de portes/places: 3 portes, 2 places assises</li>
-						<li>Motorisation: Essence</li>
-						<li>Puissance Fiscale: 39 CV</li>
-						<li>Moteur: 6 cylindres en ligne</li>
-						<li>Puissance: 500 ch</li>
-						<li>Type de suralimentation: Bi-Turbo</li>
-						<li>Boîte de vitesse, Nombre de rapports: Automatique à 7 rapports</li>
-						<li>Roues motrices: Arrière</li>
-						<li>Vitesse Maxi: 305 km/h</li>
-						<li>0 à 100 km/h: 3,8 sec</li>
-						<li><b>Prix: 149 900 €</b></li>
-					</ul>
-
-					<img src="imageweb/BMWM4GTS/logobmw.png"
-					alt="logo">
-
-			</div>
-			<!-- ======================================== -->
-
-
-			<br>
-
-
-			<!-- ======================================== -->
-			<div class="contenueVoiture">
-				<h4>Nissan 370Z COUPE 3.7 V6 344 NISMO</h4>
-
-				<a href="imageweb/Nissan370z/nissanint.jpg"> 
-					<img src="imageweb/Nissan370Z/nissanav.jpg" alt="imageweb">
-				</a>
-
-					<ul>
-						<li>Nombre de portes/places: 3 portes, 2 places assises</li>
-						<li>Motorisation: Essence</li>
-						<li>Puissance Fiscale: 25 CV</li>
-						<li>Moteur: 6 cylindres en V, 24 soupapes</li>
-						<li>Puissance: 344 ch</li>
-						<li>Type de suralimentation: ~~</li>
-						<li>Boîte de vitesse, Nombre de rapports: Mécanique à 6 rapports</li>
-						<li>Roues motrices: Arrière</li>
-						<li>Vitesse Maxi: 250 km/h</li>
-						<li>0 à 100 km/h: 5,2 sec</li>
-						<li><b>Prix: 45 400 €</b></li>
-					</ul>
-
-					<img src="imageweb/Nissan370Z/logonissan.png"
 					alt="logo">
 
 			</div>
@@ -578,38 +418,6 @@
 
 			</div>
 			<!-- ======================================== -->	
-
-
-			<br>
-
-
-			<!-- ======================================== -->
-			<div class="contenueVoiture">
-				<h4>Ford Mustang Shelby GT 350</h4>
-
-				<a href="imageweb/FordMustangShelbyGT350/fordint.jpg"> 
-					<img src="imageweb/FordMustangShelbyGT350/fordav.jpg" alt="imageweb">
-				</a>
-
-					<ul>
-						<li>Nombre de portes/places: 3 portes, 2 places assises</li>
-						<li>Motorisation: Essence</li>
-						<li>Puissance Fiscale: 46 CV</li>
-						<li>Moteur: 8 cylindres en V, 32 soupapes</li>
-						<li>Puissance: 533 ch</li>
-						<li>Type de suralimentation: ~~</li>
-						<li>Boîte de vitesse, Nombre de rapports: Mécanique à 6 rapports</li>
-						<li>Roues motrices: Arrière</li>
-						<li>Vitesse Maxi: 299 km/h</li>
-						<li>0 à 100 km/h: 4,6 sec</li>
-						<li><b>Prix: 79 900 €</b></li>
-					</ul>
-
-					<img src="imageweb/FordMustangShelbyGT350/logoford.png"
-					alt="logo">
-
-			</div>
-			<!-- ======================================== -->
 
 
 			<br>
