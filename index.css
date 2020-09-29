@@ -1,0 +1,70 @@
+html {
+  background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(90,90,90,1) 100%);
+} 
+
+/*Titre*/
+.title {  
+  border-width:6px;
+  border-style:double;
+  border-color:red;
+  font-size: 80px;
+  padding: 30px;
+  background: -webkit-linear-gradient(white, gray);
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+
+/*------------------------------------*/
+/*paramètre pour centré un ou plusieur bloc(s)*/
+img,.center {
+  text-align:center; 
+  width:50%; 
+  margin: auto;
+  width: 50%;
+  border: 1px solid silver;
+  box-shadow: 2px 2px;
+  background-color: silver;
+	 background: -webkit-linear-gradient(white, gray);
+}
+/*----------Bloc arrière plan----------*/
+.container {
+  border-radius: 2px;
+  background-color: silver;
+  padding: 10px ;
+  width: 60%;
+  margin: 50px auto auto auto;
+  height: auto;
+  overflow: hidden;
+  min-width: 40px;
+  min-height: 10px;
+  text-align: center;
+  background: -webkit-linear-gradient(white, gray);
+  
+
+}
+
+.presentation{
+	padding: 20px 20px;
+	text-align: center;
+  color:white;
+}
+
+hr {
+  width: 50%;
+  color: #d90000;
+}
+
+video {
+  width: 50%;
+}
+
+
+footer {
+    font-family: arial, sans-serif;
+   border:solid 2px;
+    border-color: black;
+    background-color: gray;
+    text-align: center;
+}
